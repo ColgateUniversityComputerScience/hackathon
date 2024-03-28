@@ -1,1 +1,1 @@
-# hackathon
+# GateHacks'24
