@@ -23,7 +23,7 @@ Get ready, COSC students! GateHacks'24 is not just any hackathon; it's **Colgate
   - Afternoon: Wrap up and submit your projects – show off what you’ve got!
   - Evening: Prize ceremony! Think Arduino kits, Lego sets, Tekno Scooters, and more! 🏆
 
-### Prizes Galore! 🎁
+### Prizes! 🎁
 
 Winning is just a bonus here – with Arduino kits, Lego sets, Tekno Scooters, and more up for grabs, everyone’s in for a treat!
 
