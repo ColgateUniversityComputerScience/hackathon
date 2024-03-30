@@ -31,10 +31,17 @@ Our marketing strategy is to present this application directly to Colgate's admi
 
 ## Contact Information
 For more details or queries, please reach out to:
-- Jude Ramanan - [Email](mailto:jramanan@colgate.edu)
-- Fausto De Leon - [Email](mailto:fdeleon@colgate.edu)
-- Hugo Stickney - [Email](mailto:hstickney@colgate.edu)
-- Alex Radovich - [Email](mailto:aradovich@colgate.edu)
+
+- Jude Ramanan
+  - Email: [jramanan@colgate.edu](mailto:jramanan@colgate.edu)
+- Fausto De Leon
+  - Email: [fdeleon@colgate.edu](mailto:fdeleon@colgate.edu)
+- Hugo Stickney
+  - Email: [hstickney@colgate.edu](mailto:hstickney@colgate.edu)
+- Alex Radovich
+  - Email: [aradovich@colgate.edu](mailto:aradovich@colgate.edu)
+
+---
 
 ## GitHub Repository
 Access our project's source code on GitHub: [Colgate Surveys Repository](https://github.com/ramananj34/hack-app.git)
