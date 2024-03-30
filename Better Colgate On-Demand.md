@@ -32,6 +32,16 @@ Colgate On-Demand will be launched through the university's web portal, making i
 [Watch our pitch deck video](https://youtu.be/r2Y4rFvjw14)
 
 ### GitHub Repository
-[View our project on GitHub](git@github.com:NancyLei333/Hackthon_3.23.git)
+[View our project on GitHub](https://github.com/NancyLei333/Hackthon_3.23.git)
+
+### Contact Informatio
+For more information or inquiries, please contact:
+- Nancy Lei 
+  Email: [jlei1@colgate.edu](mailto:jlei1@colgate.edu)
+- Jieni Wu 
+  Email: [jwu5@colgate.edu](mailto:jwu5@colgate.edu)
+
+Feel free to reach out with any questions or feedback regarding the Colgate On-Demand application.
 
 ---
+
