@@ -41,8 +41,8 @@ Want more details? Check out our [event slides](https://docs.google.com/presenta
 
 ### Got Questions? 📞
 
-- Jaanhvi Agarwal: `[jagarwal@colgate.edu](mailto:jagarwal@colgate.edu)`
-- Kevin Han: `[khan@colgate.edu](mailto:khan@colgate.edu)`
+- Jaanhvi Agarwal: [jagarwal@colgate.edu](mailto:jagarwal@colgate.edu)
+- Kevin Han: [khan@colgate.edu](mailto:khan@colgate.edu)
 
 ### Ready, Set, Hack! 🎯
 
