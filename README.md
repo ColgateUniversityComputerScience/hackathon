@@ -8,7 +8,7 @@ Get ready, COSC students! GateHacks'24 is not just any hackathon; it's **Colgate
 
 - **What:** GateHacks'24 Hackathon - a fusion of technology, creativity, and excitement!
 - **When:** March 23rd (Saturday) starting at 11:00 AM, running through to March 24th (Sunday)
-- **Where:** The cool and comfy McGregory 319 (Student Lounge), Colgate University
+- **Where:** McGregory 319 (Student Lounge), Colgate University
 - **Who:** You! Yes, you reading this – and all your friends too, regardless of your coding experience!
 
 ### What’s Happening? 🗓
