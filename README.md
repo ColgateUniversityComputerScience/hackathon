@@ -4,6 +4,10 @@
 
 Get ready, COSC students! GateHacks'24 is not just any hackathon; it's **Colgate University's very first student-led hackathon**, organized by Jaanhvi Agarwal and Kevin Han. Prepare for a whirlwind weekend where coding meets fun, creativity knows no bounds, and the possibilities are endless!
 
+### What’s Happening? 🗓
+
+<img width="511" alt="GateeHacks'24" src="https://github.com/ColgateUniversityComputerScience/hackathon/assets/93530844/d1cfa3f1-e8f0-4a4f-be9a-dc92fc4a56d4">
+
 ### Event Details 🎈
 
 - **What:** GateHacks'24 Hackathon - a fusion of technology, creativity, and excitement!
@@ -11,7 +15,8 @@ Get ready, COSC students! GateHacks'24 is not just any hackathon; it's **Colgate
 - **Where:** McGregory 319 (Student Lounge), Colgate University
 - **Who:** You! Yes, you reading this – and all your friends too, regardless of your coding experience!
 
-### What’s Happening? 🗓
+
+
 
 - **Day 1: March 23rd, Saturday**
   - 11:00 AM: Kick-off with Brunch from Oliveri's and Slices – because all great ideas start with great food!
